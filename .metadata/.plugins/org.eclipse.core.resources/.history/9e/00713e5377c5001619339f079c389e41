@@ -1,0 +1,5 @@
+package com.peddi.learning.model;
+
+public class Contact {
+
+}

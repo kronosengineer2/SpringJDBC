@@ -1,0 +1,5 @@
+package com.peddi.learning.controller;
+
+public class HomeController {
+
+}
